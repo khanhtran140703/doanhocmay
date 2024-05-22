@@ -1,4 +1,4 @@
-jjoblib=1.2.2
+joblib=1.2.2
 streamlit
 numpy
 scikit-learn
